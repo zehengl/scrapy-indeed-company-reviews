@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://cdn2.iconfinder.com/data/icons/essential-web-4/50/commenting-more-typing-chat-review-512.png" alt="logo" height="128">
-</div>
-
 # scrapy-indeed-company-reviews
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
@@ -55,10 +51,3 @@ scrapy crawl review -O data/reviews_$indeed_company.json
 ## Demo
 
 See the demo app at [https://indeed-municipality-reviews.streamlit.app/](https://indeed-municipality-reviews.streamlit.app/) for some crawled company reviews
-
-## Credits
-
-- [Icon][1] by [Becris .][2]
-
-[1]: https://www.iconfinder.com/icons/3209401/chat_commenting_more_review_typing_icon
-[2]: https://www.iconfinder.com/becris
