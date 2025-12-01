@@ -1,5 +1,5 @@
 -r requirements.txt
-beautifulsoup4==4.14.2
+beautifulsoup4==4.14.3
 jupyterlab==4.5.0
 pandas==2.3.3
 pip-check-updates==0.27.0
