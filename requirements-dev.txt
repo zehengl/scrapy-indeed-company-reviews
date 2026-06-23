@@ -1,6 +1,6 @@
 -r requirements.txt
 beautifulsoup4==4.15.0
-jupyterlab==4.5.8
+jupyterlab==4.5.9
 pandas==3.0.3
 pip-check-updates==0.28.0
 Scrapy==2.16.0
